@@ -4,7 +4,7 @@ authors:
   - family-names: Leplumey
     given-names: Thomas
     orcid: https://orcid.org/1234-5678-9101-1121
-title: "Exact diagonalization of pure Z2 gauge theory"
+title: "Exact diagonalization of pure $Z_2$ gauge theory"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.1234
